@@ -1,0 +1,14 @@
+#joke_button {
+    height: 200px;
+    width:200px;
+    background-color: rgb(240,0,0);
+    border-radius: 100%;
+    text-align: center;
+    color: white;
+}
+
+#joke_text{
+    font-size: 20px;
+    display: inline-block;
+    margin: 80px auto;
+}
